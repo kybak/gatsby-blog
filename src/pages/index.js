@@ -36,7 +36,11 @@ export default () => (
         the seed file, all of the initial data models, and the first page that actually pulled and displayed data using
         Redux and Semantic UI. This way the other students could have an example to work off of. </Text>
       <br/>
-      <Text>I recognize the importance of not dwellign too much and getting things moving forward but also making sure everyone feels like they are playing a part. I think it's really helpful to have the boilerplate set up and something to work off of. In this way the other students can do their own work and become immersed in the app and tackle their own challenges. We have had many Zoom meetings to give everyone an opportunity to make decisions regarding the app and make their voice heard.</Text>
+      <Text>I recognize the importance of not dwellign too much and getting things moving forward but also making sure
+        everyone feels like they are playing a part. I think it's really helpful to have the boilerplate set up and
+        something to work off of. In this way the other students can do their own work and become immersed in the app
+        and tackle their own challenges. We have had many Zoom meetings to give everyone an opportunity to make
+        decisions regarding the app and make their voice heard.</Text>
     </Container>
   </Container>
 )
